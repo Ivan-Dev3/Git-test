@@ -17,6 +17,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2q1c2HuHUDQzudIAulVCS7n0tUX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733833312708</updated>
-      <workItem from="1733833313961" duration="966000" />
+      <workItem from="1733833313961" duration="1937000" />
     </task>
     <servers />
   </component>
